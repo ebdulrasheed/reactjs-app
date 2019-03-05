@@ -5,7 +5,7 @@ import {
 } from 'reactstrap';
 
 class Home extends Component {
-    // render() {
+    render() {
         return (
             <div>
                 <Card>
